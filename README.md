@@ -1,4 +1,4 @@
-# node-cli-climatempo
+# node-clima-cli
 CLI que mostra o clima de uma cidade em tempo real
 
 ## Instalar dependências
@@ -16,7 +16,7 @@ O comando `clima` vai estar disponível no terminal. Você pode usar o comando p
 O comando vai mostrar o clima em tempo real da cidade:
 
 ```
-    Clima em Curitiba, PR
+Clima em Curitiba, PR
     Temperatura: 15°
     Direção do vento: SW
     Velocidade do vento: 13 km/h
@@ -30,11 +30,11 @@ O comando vai mostrar o clima em tempo real da cidade:
 Esta ferramenta uma a API do ClimaTempo para buscar as informações do clima da cidade.
 Quando for executar o comando pela primeira vez, é necessário informar o token da API para poder usá-la:
 
-`clima curitiba --token seu-app-token`
+`clima porto alegre --token seu-app-token`
 
 ou
 
-`clima curitiba -t seu-app-token`
+`clima porto alegre -t seu-app-token`
 
 O token só precisa ser informado uma vez e ele será armazenado localmente. Se precisar atualizar o token, basta informá-lo novamente usando o mesmo parâmetro.
 
