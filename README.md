@@ -1,4 +1,4 @@
-# node-clima-cli
+# node-cli-climatempo
 CLI que mostra o clima de uma cidade em tempo real
 
 ## Instalar dependências
