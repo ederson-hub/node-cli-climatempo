@@ -16,7 +16,7 @@ O comando `clima` vai estar disponível no terminal. Você pode usar o comando p
 O comando vai mostrar o clima em tempo real da cidade:
 
 ```
-Clima em Curitiba, PR
+    Clima em Curitiba, PR
     Temperatura: 15°
     Direção do vento: SW
     Velocidade do vento: 13 km/h
