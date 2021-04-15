@@ -30,11 +30,11 @@ Clima em Curitiba, PR
 Esta ferramenta uma a API do ClimaTempo para buscar as informações do clima da cidade.
 Quando for executar o comando pela primeira vez, é necessário informar o token da API para poder usá-la:
 
-`clima porto alegre --token seu-app-token`
+`clima curitiba --token seu-app-token`
 
 ou
 
-`clima porto alegre -t seu-app-token`
+`clima curitiba -t seu-app-token`
 
 O token só precisa ser informado uma vez e ele será armazenado localmente. Se precisar atualizar o token, basta informá-lo novamente usando o mesmo parâmetro.
 
